@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f4f6f8;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: #222;
+}
+
+.logo {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.login-btn {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    transition: 0.3s;
+}
+
+.login-btn:hover {
+    background: #fff;
+    color: #222;
+}
+
+.content {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.content h1 {
+    margin-bottom: 10px;
+}
+

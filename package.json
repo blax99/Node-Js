@@ -2,13 +2,13 @@
   "dependencies": {
     "colors": "^1.4.0",
     "express": "^5.2.1",
+    "morgan": "^1.10.1",
     "nodemon": "^3.1.11"
   },
   "name": "node-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
