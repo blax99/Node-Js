@@ -4,9 +4,11 @@
     "cors": "^2.8.5",
     "ejs": "^3.1.10",
     "express": "^5.2.1",
+    "express-session": "^1.18.2",
     "mongodb": "^7.0.0",
     "mongoose": "^9.0.2",
     "morgan": "^1.10.1",
+    "multer": "^2.0.2",
     "nodemon": "^3.1.11"
   },
   "name": "node-js",
